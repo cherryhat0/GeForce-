@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GeForce NOW Launcher</title>
+</head>
+<body>
+    <h1>GeForce NOW Launcher</h1>
+    <p>Click the button below to launch GeForce NOW:</p>
+    <a href="https://play.geforcenow.com/" target="_blank">
+        <button style="padding: 10px 20px; font-size: 16px;">Launch GeForce NOW</button>
+    </a>
+</body>
+</html>
